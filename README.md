@@ -25,5 +25,5 @@
     ```
    
     ```
-      npm run
+      npm start
     ```
